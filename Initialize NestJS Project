@@ -1,0 +1,4 @@
+Create a new NestJS project
+
+nest new user-notification-preferences-api
+cd user-notification-preferences-api
